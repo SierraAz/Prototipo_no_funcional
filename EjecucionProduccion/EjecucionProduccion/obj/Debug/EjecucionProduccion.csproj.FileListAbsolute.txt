@@ -1,0 +1,12 @@
+C:\Users\azael\source\repos\EjecucionProduccion\EjecucionProduccion\obj\Debug\EjecucionProduccion.csproj.AssemblyReference.cache
+C:\Users\azael\source\repos\EjecucionProduccion\EjecucionProduccion\obj\Debug\EjecucionProduccion.Properties.Resources.resources
+C:\Users\azael\source\repos\EjecucionProduccion\EjecucionProduccion\obj\Debug\EjecucionProduccion.csproj.GenerateResource.cache
+C:\Users\azael\source\repos\EjecucionProduccion\EjecucionProduccion\obj\Debug\EjecucionProduccion.csproj.CoreCompileInputs.cache
+C:\Users\azael\source\repos\EjecucionProduccion\EjecucionProduccion\bin\Debug\EjecucionProduccion.exe.config
+C:\Users\azael\source\repos\EjecucionProduccion\EjecucionProduccion\bin\Debug\EjecucionProduccion.exe
+C:\Users\azael\source\repos\EjecucionProduccion\EjecucionProduccion\bin\Debug\EjecucionProduccion.pdb
+C:\Users\azael\source\repos\EjecucionProduccion\EjecucionProduccion\bin\Debug\CapaVista.dll
+C:\Users\azael\source\repos\EjecucionProduccion\EjecucionProduccion\bin\Debug\CapaVista.pdb
+C:\Users\azael\source\repos\EjecucionProduccion\EjecucionProduccion\obj\Debug\EjecucionProduccion.csproj.CopyComplete
+C:\Users\azael\source\repos\EjecucionProduccion\EjecucionProduccion\obj\Debug\EjecucionProduccion.exe
+C:\Users\azael\source\repos\EjecucionProduccion\EjecucionProduccion\obj\Debug\EjecucionProduccion.pdb

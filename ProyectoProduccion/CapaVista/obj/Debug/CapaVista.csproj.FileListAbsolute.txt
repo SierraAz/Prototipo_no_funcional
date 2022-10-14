@@ -1,0 +1,17 @@
+C:\Users\azael\source\repos\ProyectoProduccion\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\azael\source\repos\ProyectoProduccion\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\azael\source\repos\ProyectoProduccion\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\azael\source\repos\ProyectoProduccion\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\azael\source\repos\ProyectoProduccion\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\azael\source\repos\ProyectoProduccion\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\azael\source\repos\ProyectoProduccion\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\azael\source\repos\ProyectoProduccion\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\azael\source\repos\ProyectoProduccion\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\azael\source\repos\ProyectoProduccion\CapaVista\obj\Debug\CapaVista.inicio.resources
+C:\Users\azael\source\repos\ProyectoProduccion\CapaVista\obj\Debug\CapaVista.Recetas.resources
+C:\Users\azael\source\repos\ProyectoProduccion\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\azael\source\repos\ProyectoProduccion\CapaVista\obj\Debug\CapaVista.ordenes.resources
+C:\Users\azael\source\repos\ProyectoProduccion\CapaVista\obj\Debug\CapaVista.proceso_de_produccion.resources
+C:\Users\azael\source\repos\ProyectoProduccion\CapaVista\obj\Debug\CapaVista.ver_ordenes.resources
+C:\Users\azael\source\repos\ProyectoProduccion\CapaVista\obj\Debug\CapaVista.ver_receta.resources
+C:\Users\azael\source\repos\ProyectoProduccion\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
